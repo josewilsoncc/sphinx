@@ -5,6 +5,7 @@
 # Translators:
 # Guillem Borrell <guillem@torroja.dmt.upm.es>, 2011
 # Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2013
+# Jose Wilson Capera Castaño <josewilsoncc@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version:  Sphinx\n"
@@ -38,7 +39,7 @@ msgstr ""
 #: sphinx/config.py:84
 #, python-format
 msgid "%s %s documentation"
-msgstr "documentación de %s - %s"
+msgstr "Documentación de %s - %s"
 
 #: sphinx/environment.py:1820
 #, python-format
@@ -71,7 +72,7 @@ msgstr "Funciones incorporadas"
 
 #: sphinx/builders/changes.py:77
 msgid "Module level"
-msgstr "Nivel de módulo"
+msgstr "Nivel del módulo"
 
 #: sphinx/builders/html.py:290
 #, python-format
@@ -127,12 +128,12 @@ msgstr "Parámetros"
 #: sphinx/domains/c.py:61 sphinx/domains/cpp.py:1643
 #: sphinx/domains/javascript.py:128 sphinx/domains/python.py:125
 msgid "Returns"
-msgstr "Devuelve"
+msgstr "Retorna"
 
 #: sphinx/domains/c.py:63 sphinx/domains/javascript.py:130
 #: sphinx/domains/python.py:127
 msgid "Return type"
-msgstr "Tipo del valor devuelto"
+msgstr "Tipo del valor retornado"
 
 #: sphinx/domains/c.py:177
 #, python-format
